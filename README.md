@@ -1,7 +1,5 @@
 # Kiểm thử với mock API JSONPlaceholder
 
-Dưới đây là 10 câu query từ cơ bản đến nâng cao mà học viên có thể thực hành trong khóa học kiểm thử với mock API JSONPlaceholder:
-
 ### Cơ bản
 1. **Lấy danh sách các bài viết (posts) với phân trang**
 ```
